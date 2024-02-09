@@ -1,5 +1,11 @@
 {
   "dependencies": {
+<<<<<<< HEAD
+    "app": "^0.1.0",
+    "create": "^0.0.2",
+    "react": "^18.2.0"
+=======
     "create-react-app": "^5.0.1"
+>>>>>>> 6c4cac6d063617989cf4dbc140f40becbb469a92
   }
 }
