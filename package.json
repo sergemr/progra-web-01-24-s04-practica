@@ -1,4 +1,16 @@
 {
+<<<<<<< HEAD
+  "name": "progra-web-01-24-s04-practica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+=======
+>>>>>>> cbcda0c0c8d9c606fcbd158e7dcb8f2980fafd09
   "dependencies": {
     "app": "^0.1.0",
     "create": "^0.0.2",
