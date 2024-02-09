@@ -3,6 +3,7 @@ import './App.css';
 
 function App() {
   return (
+<<<<<<< HEAD
     <div Ingresar los datos>
       <h1>Hola mundo </h1> {nombre}
       <input type="text"></input>
@@ -17,6 +18,15 @@ function App() {
       <button onClick={despedir}>despedir</button>
 
     
+=======
+    <div className="App">
+     <h1>Hola!!</h1>
+     <p>Ingrese el usuario:</p>
+     <input type="text"></input>
+     <p>ingrese el password:</p>
+     <input type="password"></input>
+     <button>submit</button>
+>>>>>>> 6c4cac6d063617989cf4dbc140f40becbb469a92
     </div>
   );
 }
